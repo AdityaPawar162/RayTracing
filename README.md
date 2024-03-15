@@ -15,12 +15,12 @@ Make sure you have the following installed on your system:
    git clone https://github.com/AdityaPawar162/Projects.git
    cd RayTracing
 
-2. Configure with CMake:
+2. Build the Project:
    ```bash
-   cmake ..
-3. Build the Project:
+   bash build.sh
+3. Go to Build:
    ```bash
-   make -j
+   cd build/
 
 ## Running the Executable
 Once the build process is complete, run the executable using the following command:
