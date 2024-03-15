@@ -7,6 +7,7 @@ Make sure you have the following installed on your system:
 
 - C++ compiler
 - CMake
+- PPM Viewer
 
 ## Build Instructions
 
@@ -26,6 +27,6 @@ Make sure you have the following installed on your system:
 Once the build process is complete, run the executable using the following command:
 
    ```bash
-   ./src/main 
+   ./src/main >> image_number.ppm
    ```
 
